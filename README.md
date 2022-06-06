@@ -1,6 +1,6 @@
-# Hi, I'm Ciaran 👋
+# Hi, I'm Ciaran 👋🏻
 
-<img src="https://github.com/obrienciaran/obrienciaran/blob/ba67fe2b175f3abdeeb2c33d54eeb2a01cb52a28/ciaran_graphic.png" alt="test test test alt text">
+<img src="https://github.com/obrienciaran/obrienciaran/blob/ba67fe2b175f3abdeeb2c33d54eeb2a01cb52a28/ciaran_graphic.png" alt="a graphic and cartoon-like image of Ciaran O'Brien, data scientist.">
 I'm a data scientist who is...
 
 
