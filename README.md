@@ -1,3 +1,4 @@
+<head>
 <style type="text/css">
 .centerImage
 {
@@ -5,6 +6,7 @@
  display:block;
 }
 </style>
+</head>
 
 # Hi, I'm Ciaran 👋🏻
 
