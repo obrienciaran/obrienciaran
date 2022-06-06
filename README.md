@@ -1,6 +1,6 @@
 # Hi, I'm Ciaran 👋🏻
 <div id="header" align="center">
-<img src="https://github.com/obrienciaran/obrienciaran/blob/3065ecb6b146a21b5eb13791238e5d18242fdccf/ciaran_graphic1.png" alt="a graphic and cartoon-like image of Ciaran O'Brien, data scientist." width="400" height="400" class="centerImage">
+<img src="https://github.com/obrienciaran/obrienciaran/blob/1c395a78ec035635f19c1b9e0363c119e1e3c080/ciaran_graphic.png" alt="a graphic and cartoon-like image of Ciaran O'Brien, data scientist." width="400" height="400" class="centerImage">
 </div>
 
 <p>I am a data scientist who loves technology and computing. I mainly work with Python (Scikit Learn, Keras, Tensorflow etc.) & R (Caret, Tidyverse, etc.) for data analytics, data visualisation, deep learning, machine learning, and tackling artificial intelligence tasks.
