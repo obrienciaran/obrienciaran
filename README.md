@@ -1,6 +1,6 @@
 # Hi, I'm Ciaran 👋
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="test test test alt text">
+<img src="https://github.com/obrienciaran/obrienciaran/blob/ba67fe2b175f3abdeeb2c33d54eeb2a01cb52a28/ciaran_graphic.png" alt="test test test alt text">
 I'm a data scientist who is...
 
 
