@@ -12,4 +12,4 @@
 ## Find me online:
 - My professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
 - My music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
-- My personal website for my electronic music duo <a href="https://www.erraproject.com">Erra P.</a> 🎧
+- My personal website for my electronic music duo <a href="https://www.erraproject.com">Erra P.</a> 🤖
