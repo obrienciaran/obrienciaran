@@ -7,10 +7,14 @@
 
 <p>Given my academic background in biological science, I have professional experience and PhD level knowledge within in the fields of radiology and preventative medicine. On top of this medical data facing experience, I more recenttly have been focusing on data science for business, web technology and products, and web user experience. I have worked here with additional languages such as SQL, HTML, CSS, PHP, VB, and JavaScript for data related tasks, as well as having experience in AWS.</p>
 
-<p style="color:blue;font-size:10px;">Thanks to Terri Chen for the digital art.</p>
+<body>
+ <font size="7">Thanks to Terri Chen for the digital art</font>
 
+ </body>
 
 ## Find me online:
 - My professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
 - My music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
 - My personal website for my electronic music duo <a href="https://www.erraproject.com">Erra P.</a> 🤖
+
+
