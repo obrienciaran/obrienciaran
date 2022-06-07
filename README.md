@@ -7,7 +7,7 @@
 
 <p>Given my academic background in biological science, I have professional experience and PhD level knowledge within in the fields of radiology and preventative medicine. On top of this medical data facing experience, I more recenttly have been focusing on data science for business, web technology and products, and web user experience. I have worked here with additional languages such as SQL, HTML, CSS, PHP, VB, and JavaScript for data related tasks, as well as having experience in AWS.</p>
 
-<p style="color:blue;font-size:9px;">Thanks to Terri Chen for the digital art.</p>
+<p style="color:blue;font-size:10px;">Thanks to Terri Chen for the digital art.</p>
 
 
 ## Find me online:
