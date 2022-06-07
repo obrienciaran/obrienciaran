@@ -9,14 +9,6 @@
 
 <p>Thanks to Terri Chen for the digital art.</p>
 
-<html>
- <head>
- </head>
- <body>
-   <p style="font-size:10px">Font size is 10px</p>
- </body>
-</html>
-
 ## Find me online:
 - My professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
 - My music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
