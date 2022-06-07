@@ -7,7 +7,7 @@
 
 <p>I have professional experience and PhD level academic knowledge within in the fields of radiology and preventative medicine. On top of this medical data facing experience, I have been more recently focusing on data science for business, web technology and products, and web user experience. I have worked with additional languages such as SQL, HTML, CSS, PHP, VB, and JavaScript for data related tasks, as well as having experience in AWS.</p>
 
-<sub><sup>Thanks to Terri Chen for the digital art.</sup></sub>
+<sup>Thanks to Terri Chen for the digital art.</sup>
 
 ## Find me online:
 - My professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
