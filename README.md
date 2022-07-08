@@ -1,4 +1,4 @@
-# Hi, I'm Ciaran 👋🏻
+# Hey, I'm Ciaran 👋🏻
 <div id="header" align="center">
 <img src="https://github.com/obrienciaran/obrienciaran/blob/1c395a78ec035635f19c1b9e0363c119e1e3c080/ciaran_graphic.png" alt="a graphic and cartoon-like image of Ciaran O'Brien, data scientist." width="1000" height="400" class="centerImage">
 </div>
