@@ -9,6 +9,12 @@
 
 <sup>Thanks to Terri Chen for the digital art.</sup>
 
+## <h3 align="left">GitHub Stats</h3>
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=obrienciaran&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+
 ## Find me online:
 - My professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
 - My music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
