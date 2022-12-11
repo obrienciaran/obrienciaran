@@ -5,7 +5,7 @@
 
 <p>I am a data scientist who loves technology and computing. I mainly work with Python (Scikit Learn, Keras etc.), SQL, and R (Caret, Tidyverse, etc.) for data analytics, data visualisation, deep learning, and machine learning tasks. </p>
 
-<p>Recently I have been focusing on data science for web technology, web products, and web user experience. Ocassionally I work with additional languages such as HTML, CSS, VB, and JavaScript for various data related tasks, and also having experience with AWS and GCP.</p>
+<p>Recently I have been focusing on data science for web technology, web products, and web user experience. Ocassionally I work with additional languages such as HTML, CSS, VB, and JavaScript for various data related tasks, and also have experience with AWS and GCP.</p>
 
 <sup>Thanks to Terri Chen for the digital art.</sup>
 
