@@ -3,9 +3,9 @@
 <img src="https://github.com/obrienciaran/obrienciaran/blob/1c395a78ec035635f19c1b9e0363c119e1e3c080/ciaran_graphic.png" alt="a graphic and cartoon-like image of Ciaran O'Brien, data scientist." width="1000" height="400" class="centerImage">
 </div>
 
-<p>I am a data scientist who loves technology and computing. I mainly work with Python (Scikit Learn, Keras etc.) & R (Caret, Tidyverse, etc.) for data analytics, data visualisation, deep learning, and machine learning tasks. </p>
+<p>I am a data scientist who loves technology and computing. I mainly work with Python (Scikit Learn, Keras etc.), SQL, and R (Caret, Tidyverse, etc.) for data analytics, data visualisation, deep learning, and machine learning tasks. </p>
 
-<p>Recently I have been focusing on data science for web technology, web products, and web user experience. I have worked with additional languages such as SQL, HTML, CSS, PHP, VB, and JavaScript for data related tasks, as well as having experience in AWS and GCP.</p>
+<p>Recently I have been focusing on data science for web technology, web products, and web user experience. Ocassionally I work with additional languages such as HTML, CSS, VB, and JavaScript for various data related tasks, and also having experience with AWS and GCP.</p>
 
 <sup>Thanks to Terri Chen for the digital art.</sup>
 
