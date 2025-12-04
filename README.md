@@ -3,9 +3,11 @@
 <img src="https://github.com/obrienciaran/obrienciaran/blob/1c395a78ec035635f19c1b9e0363c119e1e3c080/ciaran_graphic.png" alt="a graphic and cartoon-like image of Ciaran O'Brien, data scientist." width="1000" height="400" class="centerImage">
 </div>
 
-<p>I am a data scientist who loves technology and computing. I mainly work with Python, SQL, and R for data analytics, data visualisation, web scraping, and machine learning tasks. </p>
+<p>I build and scale the data foundations that power multimodal AI models and modern product development. I work end-to-end across data science, engineering, and operations using Python, SQL, and R to deliver analytics, statistical modelling, machine learning, and robust ETL pipelines.</p>
 
-<p>Recently I have been focusing on data science for medical technology using LLMs, and data engineering pipelines. Ocassionally I work with additional languages such as HTML, CSS, VB, and JavaScript for various data related tasks. I also have experience with AWS, GCP, and Azure; Bash; Docker; Terraform; Airflow; and Dagster.</p>
+<p>My toolkit includes DBT, Terraform, Docker, Airflow, Dagster, Fivetran, Hightouch, and Census, which I use to create reliable, scalable, and cost-efficient data workflows. I also work with JavaScript and other languages for cross-functional data tasks, and have experience delivering cloud data platforms across AWS, GCP, and Azure.</p>
+
+<p>My focus is on enabling AI, ML, and product teams with the high-quality data necessary to ship impactful products.</p>
 
 <sup>Thanks to Terri Chen for the digital art.</sup>
 
