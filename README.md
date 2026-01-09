@@ -6,8 +6,6 @@
 
 <p>My focus is on enabling AI, ML, and product teams with the high-quality data necessary to ship impactful products.</p>
 
-<sup>Thanks to Terri Chen for the digital art.</sup>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obrienciaran&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ## Find me online:
