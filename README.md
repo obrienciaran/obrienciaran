@@ -16,5 +16,5 @@
 ## Find me online:
 - Professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
 - Music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
-- Website for my electronic music duo <a href="https://www.erraproject.com">Erra P.</a> 💃
-- Website for my digital art <a href="https://www.instagram.com/kiki_kuuki">Kiki Kuuki</a> 🎨
+- Home page for my electronic music <a href="https://www.erraproject.com">Erra P.</a> 💃
+- Check out my digital art <a href="https://www.instagram.com/kiki_kuuki">Kiki Kuuki</a> 🎨
