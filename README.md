@@ -1,7 +1,4 @@
 # Hey, I'm Ciaran 👋🏻
-<div id="header" align="center">
-<img src="https://github.com/obrienciaran/obrienciaran/blob/1c395a78ec035635f19c1b9e0363c119e1e3c080/ciaran_graphic.png" alt="a graphic and cartoon-like image of Ciaran O'Brien, data scientist." width="1000" height="400" class="centerImage">
-</div>
 
 <p>I build and scale the data foundations that power multimodal AI models and modern product development. I work end-to-end across data science, engineering, and operations using Python, SQL, and R to deliver analytics, statistical modelling, machine learning, and robust ETL pipelines.</p>
 
