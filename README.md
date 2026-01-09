@@ -14,6 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obrienciaran&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ## Find me online:
-- My professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
-- My music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
-- My personal website for my electronic music duo <a href="https://www.erraproject.com">Erra P.</a> 🤖
+- Professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
+- Music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
+- Website for my electronic music duo <a href="https://www.erraproject.com">Erra P.</a> 💃
+- Website for my digital art <a href="https://www.instagram.com/kiki_kuuki">Kiki Kuuki</a> 🎨
