@@ -10,6 +10,6 @@
 
 ## Find me online:
 - Professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
-- Music on <a href="https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74"> Spotify</a> 🎶
-- Home page for my electronic music <a href="https://www.erraproject.com">Erra P.</a> 💃
+- Electronic Music on <a href="[https://open.spotify.com/track/3eEg2zCrtQOeMBbwpD1unp?si=ee003e10accf4e74](https://open.spotify.com/artist/4HKfoJEZOT9HuwIy7572hq?si=exiKl1SBRgWMYbZw0lI0Lw)"> Spotify</a> 🎶
+- Electronic Music homepage <a href="https://www.erraproject.com">Erra P.</a> 💃
 - Check out my digital art/creative coding <a href="https://www.instagram.com/kiki_kuuki">Kiki Kuuki</a> 🎨
