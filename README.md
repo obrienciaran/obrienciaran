@@ -12,7 +12,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [dbt-debt](https://github.com/obrienciaran/dbt-debt) - 2026-06-23<br>• [MedFact POC](https://github.com/obrienciaran/MedFact_POC) - 2026-06-21<br>• [Zest CLI](https://github.com/spicy-lemonade/zest-cli) - 2026-04-05<br>
+• [dbt-debt](https://github.com/obrienciaran/dbt-debt) - 2026-06-23<br>• [MedScreen_filter POC](https://github.com/obrienciaran/MedScreen_filter_POC) - 2026-06-21<br>• [Zest CLI](https://github.com/spicy-lemonade/zest-cli) - 2026-04-05<br>
 <!-- recent_releases ends -->
   
 </td>
