@@ -19,8 +19,6 @@
 </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obrienciaran&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
 ## Find me online:
 - Professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
 - Electronic Music on <a href="https://open.spotify.com/artist/4HKfoJEZOT9HuwIy7572hq?si=z4SDJ92LTxaQvMHIoOHuRg"> Spotify</a> 🎶
