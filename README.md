@@ -11,9 +11,11 @@
 
 **Latest Releases**
 
-<!-- recent_releases starts -->
-• [dbt-debt](https://github.com/obrienciaran/dbt-debt) - 2026-06-23<br>• [MedScreen_filter POC](https://github.com/obrienciaran/MedScreen_filter_POC) - 2026-06-21<br>• [Zest CLI](https://github.com/spicy-lemonade/zest-cli) - 2026-04-05<br>
-<!-- recent_releases ends -->
+• [dbt-debt](https://github.com/obrienciaran/dbt-debt) - 2026-06-23<br>
+• [MedScreen_filter POC](https://github.com/obrienciaran/MedScreen_filter_POC) - 2026-06-21<br>
+• [Spicy Lemonade - Qwen CLI Training data](https://huggingface.co/datasets/spicy-lemonade/qwen_qa_pairs_cli_training.jsonl) - 2026-04-14<br>
+• [Spicy Lemonade - Gemma CLI Training data](https://huggingface.co/datasets/spicy-lemonade/gemma_qa_pairs_cli_training.jsonl) - 2026-04-14<br>
+• [Zest CLI](https://github.com/spicy-lemonade/zest-cli) - 2026-04-05<br>
   
 </td>
 </tr>
