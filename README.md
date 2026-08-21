@@ -25,4 +25,4 @@
 - Professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
 - Electronic Music on <a href="https://open.spotify.com/artist/4HKfoJEZOT9HuwIy7572hq?si=z4SDJ92LTxaQvMHIoOHuRg"> Spotify</a> 🎶
 - Electronic Music homepage <a href="https://www.erraproject.com">Erra P.</a> 💃
-- Check out my digital art focused on modern digital issues <a href="https://www.instagram.com/kiki_kuuki">Kiki Kuuki</a> 🎨
+- Check out my art focused on modern digital issues <a href="https://www.instagram.com/kiki_kuuki">Kiki Kuuki</a> 🎨
