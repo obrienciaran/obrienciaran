@@ -4,22 +4,51 @@
 
 <p>My focus is on enabling AI, ML, and product teams with the high-quality data necessary to ship impactful products.</p>
 
-
-<table width="1200px" cellspacing="0" cellpadding="0">
+<table width="1200px" cellspacing="0" cellpadding="5">
 <tr>
-<td width="600px" valign="top">
-
-**Latest Releases**
-
-• [Zest CLI](https://github.com/spicy-lemonade/zest-cli) (v2, Qwen3.5) - 2026-09-28<br>
-• [dbt-debt](https://github.com/obrienciaran/dbt-debt) - 2026-06-23<br>
-• [MedScreen_filter POC](https://github.com/obrienciaran/MedScreen_filter_POC) - 2026-06-21<br>
-• [Qwen CLI Training data](https://huggingface.co/datasets/spicy-lemonade/qwen_qa_pairs_cli_training.jsonl) - 2026-04-14<br>
-• [Gemma CLI Training data](https://huggingface.co/datasets/spicy-lemonade/gemma_qa_pairs_cli_training.jsonl) - 2026-04-14<br>
-• ~~Zest CLI (v1, Qwen2.5)~~ Superseded by v2 - 2026-04-05<br>  
-</td>
+<th width="350px" align="left">Latest release</th>
+<th width="550px" align="left">Description</th>
+<th width="150px" align="left">Date</th>
 </tr>
+
+<tr>
+<td align="left"><a href="https://github.com/spicy-lemonade/zest-cli">Zest CLI</a> (v2)</td>
+<td align="left">Fine-tuned Qwen3.5-9b model</td>
+<td align="left">2026-09-28</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://github.com/obrienciaran/dbt-debt">dbt-debt</a></td>
+<td align="left">Python library</td>
+<td align="left">2026-06-23</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://github.com/obrienciaran/MedScreen_filter_POC">MedScreen_filter POC</a></td>
+<td align="left">Data filter for medical papers</td>
+<td align="left">2026-06-21</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://huggingface.co/datasets/spicy-lemonade/qwen_qa_pairs_cli_training.jsonl">Qwen CLI Training data</a></td>
+<td align="left">Dataset</td>
+<td align="left">2026-04-14</td>
+</tr>
+
+<tr>
+<td align="left"><a href="https://huggingface.co/datasets/spicy-lemonade/gemma_qa_pairs_cli_training.jsonl">Gemma CLI Training data</a></td>
+<td align="left">Dataset</td>
+<td align="left">2026-04-14</td>
+</tr>
+
+<tr>
+<td align="left"><s>Zest CLI (v1)</s></td>
+<td align="left">Fine-tuned Qwen 2.5. Superseded by v2</td>
+<td align="left">2026-04-05</td>
+</tr>
+
 </table>
+
 
 ## Find me online:
 - Professional profile on <a href="https://www.linkedin.com/in/obrienciaran/">LinkedIn</a> 📚
