@@ -25,7 +25,7 @@
 
 <tr>
 <td align="left"><a href="https://github.com/obrienciaran/dbt-debt">dbt-debt</a></td>
-<td align="left">Python library</td>
+<td align="left">Python library to clean dbt projects</td>
 <td align="left">2026-06-23</td>
 </tr>
 
@@ -37,13 +37,13 @@
 
 <tr>
 <td align="left"><a href="https://huggingface.co/datasets/spicy-lemonade/qwen_qa_pairs_cli_training.jsonl">Qwen CLI Training data</a></td>
-<td align="left">Dataset</td>
+<td align="left">Dataset of CLI tasks in Q&A pairs</td>
 <td align="left">2026-04-14</td>
 </tr>
 
 <tr>
 <td align="left"><a href="https://huggingface.co/datasets/spicy-lemonade/gemma_qa_pairs_cli_training.jsonl">Gemma CLI Training data</a></td>
-<td align="left">Dataset</td>
+<td align="left">Dataset of CLI tasks in Q&A pairs</td>
 <td align="left">2026-04-14</td>
 </tr>
 
