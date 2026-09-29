@@ -19,7 +19,7 @@
 
 <tr>
 <td align="left"><a href="https://github.com/spicy-lemonade/zest-cli">Zest CLI</a> (v2)</td>
-<td align="left">Fine-tuned Qwen3.5-9B model that turns plain English into CLI commands</td>
+<td align="left">Fine-tuned Qwen3.5-9B model to turns plain English into CLI commands</td>
 <td align="left">2026-09-28</td>
 </tr>
 
