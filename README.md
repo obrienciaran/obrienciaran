@@ -43,7 +43,7 @@
 
 <tr>
 <td align="left"><s>Zest CLI (v1)</s></td>
-<td align="left">Fine-tuned Qwen 2.5. Superseded by v2</td>
+<td align="left">Fine-tuned Qwen 2.5. Superseded by v2.</td>
 <td align="left">2026-04-05</td>
 </tr>
 
