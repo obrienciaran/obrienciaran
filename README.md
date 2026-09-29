@@ -4,22 +4,22 @@
 
 <p>My focus is on enabling AI, ML, and product teams with the high-quality data necessary to ship impactful products.</p>
 
-<table width="1200px" cellspacing="0" cellpadding="5">
+<table width="1400px" cellspacing="0" cellpadding="5">
 <tr>
-<th width="350px" align="left">Latest release</th>
-<th width="550px" align="left">Description</th>
+<th width="230px" align="left">Latest release</th>
+<th width="650px" align="left">Description</th>
 <th width="150px" align="left">Date</th>
 </tr>
 
 <tr>
 <td align="left"><a href="https://github.com/spicy-lemonade/salt">Salt</a></td>
-<td align="left">CLI encryption tool for agent memory files</td>
+<td align="left">Go CLI for encrypted Git backups of AI agent memory</td>
 <td align="left">2026-09-30</td>
 </tr>
 
 <tr>
 <td align="left"><a href="https://github.com/spicy-lemonade/zest-cli">Zest CLI</a> (v2)</td>
-<td align="left">Fine-tuned Qwen3.5-9b model</td>
+<td align="left">Fine-tuned Qwen3.5-9B model that turns plain English into CLI commands</td>
 <td align="left">2026-09-28</td>
 </tr>
 
@@ -31,19 +31,19 @@
 
 <tr>
 <td align="left"><a href="https://github.com/obrienciaran/MedScreen_filter_POC">MedScreen_filter POC</a></td>
-<td align="left">Data filter for medical papers</td>
+<td align="left">Data filter for medical papers, based on supporting evidence from other papers</td>
 <td align="left">2026-06-21</td>
 </tr>
 
 <tr>
 <td align="left"><a href="https://huggingface.co/datasets/spicy-lemonade/qwen_qa_pairs_cli_training.jsonl">Qwen CLI Training data</a></td>
-<td align="left">Dataset of CLI tasks in Q&A pairs</td>
+<td align="left">Dataset of plain English to CLI command pairs for fine-tuning Qwen</td>
 <td align="left">2026-04-14</td>
 </tr>
 
 <tr>
 <td align="left"><a href="https://huggingface.co/datasets/spicy-lemonade/gemma_qa_pairs_cli_training.jsonl">Gemma CLI Training data</a></td>
-<td align="left">Dataset of CLI tasks in Q&A pairs</td>
+<td align="left">Dataset of plain English to CLI command pairs for fine-tuning Gemma</td>
 <td align="left">2026-04-14</td>
 </tr>
 
