@@ -6,9 +6,9 @@
 
 <table width="1400px" cellspacing="0" cellpadding="5">
 <tr>
-<th width="200px" align="left">Latest release</th>
-<th width="670px" align="left">Description</th>
-<th width="150px" align="left">Date</th>
+<th width="190px" align="left">Latest release</th>
+<th width="690px" align="left">Description</th>
+<th width="140px" align="left">Date</th>
 </tr>
 
 <tr>
