@@ -12,6 +12,12 @@
 </tr>
 
 <tr>
+<td align="left"><a href="https://github.com/spicy-lemonade/salt">Salt</a> (v2)</td>
+<td align="left">Encryption for agent memory files</td>
+<td align="left">2026-09-30</td>
+</tr>
+
+<tr>
 <td align="left"><a href="https://github.com/spicy-lemonade/zest-cli">Zest CLI</a> (v2)</td>
 <td align="left">Fine-tuned Qwen3.5-9b model</td>
 <td align="left">2026-09-28</td>
