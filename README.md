@@ -6,8 +6,8 @@
 
 <table width="1400px" cellspacing="0" cellpadding="5">
 <tr>
-<th width="230px" align="left">Latest release</th>
-<th width="650px" align="left">Description</th>
+<th width="200px" align="left">Latest release</th>
+<th width="670px" align="left">Description</th>
 <th width="150px" align="left">Date</th>
 </tr>
 
