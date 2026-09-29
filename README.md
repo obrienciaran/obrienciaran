@@ -12,7 +12,7 @@
 </tr>
 
 <tr>
-<td align="left"><a href="https://github.com/spicy-lemonade/salt">Salt</a> (v2)</td>
+<td align="left"><a href="https://github.com/spicy-lemonade/salt">Salt</a></td>
 <td align="left">Encryption for agent memory files</td>
 <td align="left">2026-09-30</td>
 </tr>
